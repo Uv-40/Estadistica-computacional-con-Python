@@ -1,5 +1,6 @@
 <div align="center">
   <h1> Estadistica-computacional-con-Python</h1>
+  <p> El contenido de este documento son los apuntes realizados del curso Estadistica computacional con Python dictado por @David Aroesti en @Platzi.</p>
 </div>
 
 # Tabla de contenido
