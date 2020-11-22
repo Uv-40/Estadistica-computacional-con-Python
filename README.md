@@ -41,7 +41,7 @@
 
 El nombre de programación dinamica no tiene nada que ver con la tecnica de programación utilizada.
 
-La historia inicia en los años 50 con @Richard Bellman, el cual necesitaba financiación del gobierno para poder desaroolar sus investigaciones, para lo cual decidio usar un nombre rimbombante a su investigación para que ningun congresista se negara de concederle los recursos.
+La historia inicia en los años 50 con **@Richard Bellman**, el cual necesitaba financiación del gobierno para poder desaroolar sus investigaciones, para lo cual decidio usar un nombre rimbombante a su investigación para que ningun congresista se negara de concederle los recursos.
 
 Según sus propias palabras "el nombre **Programación dinámica** se escogió para esconder a patrocinadores gubernamentales el hecho que en realidad estaba haciendo matemáticas. La frase programacion dinamica es algo que ningún congresista puede oponerse." @Richard Bellman
 
