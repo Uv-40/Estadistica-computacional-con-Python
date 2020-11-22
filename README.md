@@ -1,5 +1,5 @@
 <div align="center">
-# Estadistica-computacional-con-Python
+  <h1> Estadistica-computacional-con-Python</h1>
 </div>
 ## Objetivos:
 - Aprender cúando utilizar la programación dinámica y sus beneficios
