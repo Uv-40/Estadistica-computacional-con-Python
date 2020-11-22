@@ -38,3 +38,4 @@
 - Aprender a utilizar la programación estocástica
 - Aprender a crear simulaciones computacionales válidas.
 
+
