@@ -37,7 +37,7 @@
 - Aprender a utilizar la programación estocástica
 - Aprender a crear simulaciones computacionales válidas.
 
-## Programación Dinamica
+# Programación Dinamica
 
 El nombre de programación dinamica no tiene nada que ver con la tecnica de programación utilizada.
 
