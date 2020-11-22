@@ -30,7 +30,6 @@
     - [¿Cómo trabajar con datos experimentales?](#¿Cómo-trabajar-con-datos-experimentales?)
     - [Regresión Lineal](#Regresión-Lineal)
 
--
 
 # Objetivos
 - Aprender cúando utilizar la programación dinámica y sus beneficios
@@ -38,4 +37,8 @@
 - Aprender a utilizar la programación estocástica
 - Aprender a crear simulaciones computacionales válidas.
 
+## Programación Dinamica
 
+El nombre de programación dinamica no tiene nada que ver con la tecnica de programación utilizada.
+
+La hiitoria inicia en los años 50 con @Richard Bellman 
