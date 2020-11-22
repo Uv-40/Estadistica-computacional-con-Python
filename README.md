@@ -3,7 +3,7 @@
 </div>
 
 # Tabla de contenido
-- [objetivos][#Objetivos]
+- [objetivos][#objetivos]
 
 # Objetivos
 - Aprender cúando utilizar la programación dinámica y sus beneficios
