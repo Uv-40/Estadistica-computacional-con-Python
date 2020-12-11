@@ -9,7 +9,7 @@
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
 - [Caminos Aleatorios](#Caminos-Aleatorios)
-    - [ Entendiendo la aleatoriedad con Python](## entendiendo-la-aleatoriedad-con-python)
+    - [Entendiendo la aleatoriedad con Python](#entendiendo-la-aleatoriedad-con-python)
     - [¿Qué son los caminos aleatorios?](#¿Qué-son-los-caminos-aleatorios?)
     - [Camino de Borrachos](#Camino-de-Borrachos)
 - [Programas Estocásticos](#Programas-Estocásticos)
