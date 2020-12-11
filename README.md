@@ -9,6 +9,7 @@
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
 - [Caminos Aleatorios](#Caminos-Aleatorios)
+    - [ Entendiendo la aleatoriedad con Python](## entendiendo-la-aleatoriedad-con-python)
     - [¿Qué son los caminos aleatorios?](#¿Qué-son-los-caminos-aleatorios?)
     - [Camino de Borrachos](#Camino-de-Borrachos)
 - [Programas Estocásticos](#Programas-Estocásticos)
@@ -58,10 +59,12 @@ Los caminos aleatorios son un tipo de simulación que elige aleatoriamente una d
 
 Se utiliza en muchos campos del conocimiento cuando los sistemas no son deterministas e incluyen elementos de aleatoriedad.
 
-Movimiento Browniano, con el avance de los microscopios se empezaron a estudiar fenomenos extraños que no se podian explicar con las ciencias del momento. Como el **movimiento del polen en el agua** Albert Einstein logra explicar como los movimientos atomicos son aleatorios y como los atomos del agua golpeaban el polen aleatoriamente.
+Movimiento Browniano, con el avance de los microscopios en el siglo XIX, se empezaron a estudiar fenomenos extraños que no se podian explicar con las ciencias del momento. Como el **movimiento del polen en el agua** Albert Einstein logra explicar como los movimientos atomicos son aleatorios y como los atomos del agua golpeaban el polen aleatoriamente.
 
-Los caminos aleatorios tambien son usados para simular el comportamiento del mercado de valores.
+Los caminos aleatorios tambien son usados para simular el comportamiento del mercado de valores, simulación del movimiento de particulas para simular humo, simulación de la fusión de galaxias en el tiempo, mediante los caminos aleatrios se genero la escultura de nube aleatoria que se encuentra en inglaterra.
 
+
+## entendiendo la aleatoriedad con python
 
 
 
